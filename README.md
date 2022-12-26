@@ -1,1 +1,1 @@
-# fishman-python
+# fishman-baekjoon.py
